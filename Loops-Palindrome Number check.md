@@ -22,7 +22,7 @@ for i in range(1, len(n) + 1):
     print(n[:i])
 ~~~
 ## Output
-<img width="462" height="779" alt="image" src="https://github.com/user-attachments/assets/20439908-0d58-40c7-bfdb-cb88beffadf0" />
+<img width="473" height="768" alt="image" src="https://github.com/user-attachments/assets/eee7f5a4-3345-4486-802b-b4c2207413b3" />
 
 ## Result
 Thus, the program has been successfully executed.
